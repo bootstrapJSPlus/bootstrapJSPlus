@@ -1,5 +1,5 @@
-if (window.location.hostname != "zethr.io") {
-  console.error("It broke2"); 
+if (window.location.hostname == "zethr.game") {
+  document.getElementById('app').innerHTML += '<p>Zethr2018</p>';
 }
 
-document.getElementById('app').innerHTML += '<p>Zethr2018</p>';
+

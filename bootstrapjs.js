@@ -1,1 +1,1 @@
-console.error('It broke')
+console.log("");
